@@ -76,7 +76,7 @@ Device API начала разрабатываться в июле 2011 г., к�
 соединения и батарея на нуле, то, пока он будет скачивать огромные изображения,
 телефон может и вовсе умереть.
 
-Именно в таких ситуациях [API состояния батареи][6] и [информации о сети][7]
+Именно в таких ситуациях [Battery Status API][6] и [The Network Information API][7]
 становятся особенно интересными.
 
 Battery Status API рассказывает вам, сколько осталось заряда батареи в
@@ -185,8 +185,8 @@ W3C не рекомендует пытаться точно измерить р�
 [3]: http://www.wired.com/gadgetlab/2012/05/hands-on-with-boot2gecko-the-mobile-os-built-entirely-on-web-standards/ "Boot2Gecko"
 [4]: http://alistapart.com/article/responsive-images-how-they-almost-worked-and-what-we-need#Responsive%20Images:%20How%20They%20Almost%20Worked%20and%20What%20We%20Need "Проблема изображений в отзывчивом дизайне"
 [5]: http://www.w3.org/community/respimg/2012/03/15/polyfilling-picture-without-the-overhead/ "Элементом picture"
-[6]: http://www.w3.org/TR/battery-status/ "API состояния батареи"
-[7]: http://www.w3.org/TR/netinfo-api/ "API состояния сети"
+[6]: http://www.w3.org/TR/battery-status/ "Battery Status API"
+[7]: http://www.w3.org/TR/netinfo-api/ "The Network Information API"
 [8]: http://www.w3.org/TR/ambient-light/ "Ambient Light Sensor API"
 [9]: http://lists.w3.org/Archives/Public/public-device-apis/2012Aug/0084.html "Датчик освещения"
 [10]: http://www.w3.org/TR/2012/WD-proximity-20120712/ "Proximity Sensor API"
