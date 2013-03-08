@@ -1,5 +1,7 @@
 # Environmental Design with the Device API
 
+![Иллюстрация](img/header.jpg?raw=true&repo=environmental-design-with-the-device-api "Иллюстрация")
+
 If you’ve ever stood on a chair holding a cell phone up to get a better signal or refreshed a page that’s been hanging for 30 seconds, you already know that today’s user experiences have a gaping hole. We’re spending thousands of hours crafting interfaces that are the product of countless conversations, user tests, and analytics data piled up to our (virtual) eyeballs—only to have the experience crippled by a weird signal coming from a cell tower.
 
 Maybe your user has switched from 3G to WiFi. Maybe her battery is low. Or maybe it’s simply dark out. Whatever the scenario, real-life factors can easily thwart your best intentions—and leave your users frustrated and angry.
