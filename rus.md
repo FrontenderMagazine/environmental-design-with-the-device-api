@@ -162,6 +162,8 @@ W3C не рекомендует пытаться точно измерить р�
 проектировщика интерфейсов: если все мы будем делать так,
 мы поможем веб-технологиям двигаться в правильном направлении.
 
+> Translated with the permission of A List Apart and the author[s].
+
 [1]: http://en.wikipedia.org/wiki/Environmental_design "Дизайн, учитывающий окружающий мир"
 [2]: http://dev.w3.org/2009/dap/ "Device API"
 [3]: http://www.wired.com/gadgetlab/2012/05/hands-on-with-boot2gecko-the-mobile-os-built-entirely-on-web-standards/ "Boot2Gecko"
